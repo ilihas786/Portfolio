@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Ilihas Patel. I’m a graduate of 2024 from Pune University with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I love creating pixel-perfect UIs and high performance web apps.",
-  resume: "https://drive.google.com/file/d/1lmebIJIkBIBSolCNgrOQpenzwAvok-xj/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1b434i3B5AOHJz1xRiy3s_u0mnU2BHV3j/view",
 };
 
 // PROJECTS SECTION
